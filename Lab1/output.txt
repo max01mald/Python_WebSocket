@@ -1,0 +1,16 @@
+{
+  "args": {}, 
+  "data": "{\"Assignment\": 1}", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Content-Length": "17", 
+    "Content-Type": "application", 
+    "Host": "httpbin.org"
+  }, 
+  "json": {
+    "Assignment": 1
+  }, 
+  "origin": "132.205.229.88, 132.205.229.88", 
+  "url": "https://httpbin.org/post"
+}

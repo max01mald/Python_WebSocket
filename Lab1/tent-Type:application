@@ -1,0 +1,23 @@
+HTTP/1.0 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Content-Type: application/json
+Date: Wed, 13 Mar 2019 16:53:26 GMT
+Server: nginx
+Content-Length: 303
+Connection: keep-alive
+
+{
+  "args": {}, 
+  "data": "/post\r\n{\"Assignment\": ", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Content-Length": "22", 
+    "Content-Type": "application", 
+    "Host": "httpbin.org"
+  }, 
+  "json": null, 
+  "origin": "132.205.229.40, 132.205.229.40", 
+  "url": "https://httpbin.org/post"
+}

@@ -1,0 +1,4 @@
+10:25:59.940094 config: drop-rate=0.00, max-delay=0s, seed=1553696759939922000
+10:25:59.940350 router is listening at :3000
+10:28:34.860702 [queue=0] packet #1, 127.0.0.1:50619 -> 127.0.0.1:8007, sz=11 is delivered
+10:28:34.860963 [queue=0] packet #1, 127.0.0.1:8007 -> 127.0.0.1:50619, sz=11 is delivered
